@@ -6,6 +6,6 @@ I'm Noah, a full-stack developer & a designer. I love building clean & performan
   - Proficient in Typescript, React, Nextjs, Expo & integrating real-time tech like WebRTC & websockets.
   - Currently focusing on DSA, AI Engineering & Cybersecurity.
 
-> Looking for freelance, remote, or full-time roles. OR just say hello on my socials, living alone is lonely :/
+> Looking for freelance, remote, or full-time roles. OR just say hello on my socials, don't be shy!
 
 📫 Reach me: [noah@brkn.me](mailto:noah@brkn.me) • [Portfolio](https://brkn.me)
