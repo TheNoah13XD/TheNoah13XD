@@ -1,11 +1,11 @@
-# 👋 Hey there!
+# 👀 Oh hello!
 
-I'm Noah, a full-stack developer & a designer. I love building clean & performant web, app experiences. Interested in experimenting with the combination of 3D, motion, graphic and creative UI with performant code.
+Noah here, full-stack developer & a designer. I love building clean & performant web, app experiences. Code, design, motion, whatever it takes to bring ideas to life.
 
   - I've recently worked on [Seconds](https://seconds.me), building a full-stack webrtc powered video-calling web application.
   - Proficient in Typescript, React, Nextjs, Expo & integrating real-time tech like WebRTC & websockets.
   - Currently focusing on DSA, AI Engineering & Cybersecurity.
 
-> Looking for freelance, remote, or full-time roles. OR just say hello on my socials, don't be shy!
+> Looking for freelance, remote, or full-time roles. Just say hello on my socials, don't be shy!
 
 📫 Reach me: [noah@brkn.me](mailto:noah@brkn.me) • [Portfolio](https://brkn.me)
